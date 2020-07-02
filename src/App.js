@@ -11,24 +11,22 @@ function App() {
         <p>
           I'm Jameson Brown, a Test Engineer in Atlanta, GA.
         </p>
-        <ul>
-          <a
-              className="App-link"
-              href="https://www.linkedin.com/in/jameson-brown-30701083/"
-              target="_blank"
-              rel="noopener noreferrer"
-          >
-            LinkedIn
-          </a>
-          <a
-              className="App-link"
-              href="mailto:jameson.brown@gmail.com"
-              target="_blank"
-              rel="noopener noreferrer"
-          >
-            Email
-          </a>
-        </ul>
+        <a
+            className="App-link"
+            href="https://www.linkedin.com/in/jameson-brown-30701083/"
+            target="_blank"
+            rel="noopener noreferrer"
+        >
+          LinkedIn
+        </a>
+        <a
+            className="App-link"
+            href="mailto:jameson.brown@gmail.com"
+            target="_blank"
+            rel="noopener noreferrer"
+        >
+          Email
+        </a>
       </header>
     </div>
   );
