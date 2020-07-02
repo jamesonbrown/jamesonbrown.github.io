@@ -21,6 +21,7 @@
   align-items: center;
   justify-content: center;
   font-size: calc(14px + 2vmin);
+  font-weight: bold;
   color: white;
 }
 
@@ -36,9 +37,11 @@ a:hover {
 }
 
 .App-link {
-  color: #61dafb;
+  color: darkslategray;
   display: inline-block;
   margin-right: 20px;
+  font-weight: bold;
+  text-decoration: none;
 }
 
 h1 {
