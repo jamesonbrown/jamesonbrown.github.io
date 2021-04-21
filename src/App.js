@@ -9,7 +9,7 @@ function App() {
           <h1>Hello.</h1>
         </p>
         <p>
-          I'm Jameson Brown, a Test Engineer in Atlanta, GA.
+          I'm Jameson Brown, a software engineer in Atlanta, GA.
         </p>
         <a
             className="App-link"
